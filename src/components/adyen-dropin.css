@@ -1,0 +1,8 @@
+button.gpay-card-info-container {
+    height: 250px !important; /* Change the value of the height here to see that the Google Pay button does not scale. */
+}
+
+html {
+    background: #333;
+    padding: 2.5rem;
+}
